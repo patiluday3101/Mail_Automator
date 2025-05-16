@@ -1,5 +1,5 @@
 # Mail_Automator
-# 📧 Updated Mail Automation
+# 📧 Mail Automation
 
 Automate your email workflows securely and efficiently. This project streamlines the process of fetching, formatting, and delivering utility bills through email and WhatsApp, making it perfect for businesses, utility providers, or personal use.
 
