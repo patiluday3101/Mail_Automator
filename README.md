@@ -74,6 +74,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🌐 Connect
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or follow me on [GitHub](https://github.com/your-username)!
+Feel free to connect with me on [LinkedIn]([https://linkedin.com/in/your-profile](http://www.linkedin.com/in/uday-patil-699260228)) or follow me on [GitHub]([https://github.com/your-username](http://www.github.com/patiluday3101))!
 
 Happy Automating! 🚀
